@@ -48,7 +48,7 @@ Mobile View
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
---[Vite](https://vitejs.dev/) 
+- [Vite](https://vitejs.dev/) 
 - [VueJs](https://vuejs.org/)
 
 
