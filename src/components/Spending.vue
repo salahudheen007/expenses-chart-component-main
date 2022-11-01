@@ -51,6 +51,7 @@ const maxSpend=computed(()=>{
 }.card{
     border-radius: 15px;
     border: none;
+    background-color: var(--Very-pale-orange);
 }
 h2{
     color: var(--Dark-brown);
